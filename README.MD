@@ -20,8 +20,7 @@ Input the administrator password</br>
 You will notice a file 'lex.yy.c' in your current working directory (Note: To check the working directory, type 'pwd') </br>
 3. This is a c file<br>
 4. Run the c file by 
-</br>
-<br>gcc lex.yy.c
+</br>gcc lex.yy.c
 </br>
 5. Type './a.out'
 <br>
