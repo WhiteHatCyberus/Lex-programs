@@ -7,7 +7,7 @@ int vc=0,cc=0;			/* setting vowel and consonant count as zeroes */
 [a-zA-Z] {cc++;}		/* counts the consonants */
 %%
 int main()
-{
+{           /*action session*/
 printf("Enter the string:");
 yylex();
 printf("No of vowels: %d \n",vc);
