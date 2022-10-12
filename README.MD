@@ -1,10 +1,10 @@
 # This is a repo for the basic lex programs
-<br>
-# countwcl.l 
+# Know your files
+countwcl.l 
 counts the the number of words, lines and characters of the given input string
-# converts.l
-Converts a given string abc into ABC
-# countvc.l
+converts.l
+Converts a given string abc into ABC </br>
+countvc.l
 Counts the vowels and consonants within a string
 # How to run the lex program?
 1. Install lex into your unix terminal
