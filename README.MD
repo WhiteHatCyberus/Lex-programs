@@ -2,10 +2,11 @@
 # Know your files
 countwcl.l 
 counts the the number of words, lines and characters of the given input string
+</br>
 converts.l
 Converts a given string abc into ABC </br>
-countvc.l
-Counts the vowels and consonants within a string
+countvc.l<br>
+Counts the vowels and consonants within a string </br>
 # How to run the lex program?
 1. Install lex into your unix terminal
 <br>
