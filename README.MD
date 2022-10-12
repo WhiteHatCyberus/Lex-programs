@@ -4,7 +4,7 @@ countwcl.l :
 counts the the number of words, lines and characters of the given input string
 </br>
 converts.l :
-Converts a given string abc into ABC </br>
+Converts a given string from lowercase to UPPERCASE </br>
 countvc.l : 
 Counts the vowels and consonants within a string </br>
 # How to run the lex program?
