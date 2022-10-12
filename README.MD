@@ -18,13 +18,12 @@ Input the administrator password
 <br>
 lex countwcl.l <br>
 You will notice a file 'lex.yy.c' in your current working directory (Note: To check the working directory, type 'pwd') <br>
-This is a c file<br>
-Run the c file by 
+3. This is a c file<br>
+4. Run the c file by 
 <br>
-//<br>
 gcc lex.yy.c
 <br>
 Type './a.out'
-<br>
+</br>
 # Found an error?
 Write to me @whcyberus (Sleety George) @Linkedin
