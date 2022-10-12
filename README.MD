@@ -8,7 +8,7 @@ Converts a given string from lowercase to UPPERCASE </br>
 countvc.l : 
 Counts the vowels and consonants within a string </br>
 # How to run the lex program?
-1. Install lex into your unix terminal
+1. Install lex into your unix terminal<br>
 sudo apt install flex</br>
 Input the administrator password</br>
 2. For example to run countwcl.l
