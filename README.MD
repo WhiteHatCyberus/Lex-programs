@@ -10,20 +10,20 @@ Counts the vowels and consonants within a string </br>
 # How to run the lex program?
 1. Install lex into your unix terminal
 <br>
-sudo apt install flex
+sudo apt install flex</br>
 <br>
-Input the administrator password
+Input the administrator password</br>
 <br>
 2. For example to run countwcl.l
-<br>
-lex countwcl.l <br>
-You will notice a file 'lex.yy.c' in your current working directory (Note: To check the working directory, type 'pwd') <br>
+</br>
+<br>lex countwcl.l </br>
+You will notice a file 'lex.yy.c' in your current working directory (Note: To check the working directory, type 'pwd') </br>
 3. This is a c file<br>
 4. Run the c file by 
-<br>
-gcc lex.yy.c
-<br>
-Type './a.out'
 </br>
+<br>gcc lex.yy.c
+</br>
+5. Type './a.out'
+<br>
 # Found an error?
 Write to me @whcyberus (Sleety George) @Linkedin
